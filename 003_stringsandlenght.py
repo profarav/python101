@@ -1,0 +1,5 @@
+print("This program will ask you for your first name, last name, and middle name")
+fn = input("Enter your first name:")
+mn = input("Enter your middle name:")
+ln = input("Enter your last name:")
+print("Your initals are", fn[0],mn[0],ln[0])
